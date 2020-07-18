@@ -1,0 +1,50 @@
+Q.1 What is your undestanding of Blockchain ?
+Ans. The Blocklchain is the new hot undelying technology that pawers Bitcoin.In this article,we shall have a quick
+     Overview of what Blockchain m,eans to web developers.
+     .what is blockchain:The blockchain is defined as a ledger of facts.In this several computers are assembled in a 
+      peer-to-peer network. Comunication inside this network  obeys cryptography.members of this network are termed as 
+      nodes.
+      .ordering facts:members of blockchain networks exchange facts P2P networks solve a difficult concept of reconciliation
+      Relational database offer relational integrity. An ordering of facts guarantees integrity over a P2P networks 
+      BlockChain implements proof-of-work consensus,using blocks.
+      .Blocks:Blocks order facts in a network of peers when facts are grouped in blocks only a single chain of it replicates
+      in the entire network each preceding block refers to the previous one.
+      .Blockchain mainly relies on three concepts:
+      1.peer-to-peer network
+      2.Distributed consensus
+      3.Public-key cryptography
+      It is the combination of these three concepts that enable a computing breakthrough.
+
+Q.2 What is the core problem blockchain trying to solve ?
+Ans. Blockchain Addresses the problem of Data security and turst by making the Ledger public Hardware and software errors
+     are not the only data security issue The blockchain has to also protect itself from willful fraud and theft Two 
+     Blockchain design features help in this efort.Blockchain hepls streamline the entire process by cutting out any and
+     all middlemen and lengthy procedures thereby the burden of unnecessary time delays.By using its secure and sophisticated
+     distributed ledger once a transaction gets recorded the payment is almost instantaneously transferred to the receiving
+     party Since the transaction can't be reversed or changed ,it also ensures better accountability and security than 
+     the currently employed system.
+ 
+Q.3 What are the few features which blockchain will give what all things does a block contain ?
+Ans. Blockchain is the word that you might be hearing frequently But most of us are not completely aware of what blockschain
+     is or how to describe it to others mopstly people think that Blockchain is bitcoin and vice-versa.But its not the case 
+     In fact,Bitcoin is a digital currency or cryptocurrency that works on BlockChain technology.Blockchain was invented by
+     satoshi Nakamoto.As the name suggests,blockchain is a chain of blocks that contains information each block consists
+     of a number of transactions and each transaction is recorded in the form of hash.hash is a unique address assigned to 
+     each block during its creation and any further modification in the block will lead to a change in its hash.
+     A block has mainly 3 parts:
+     1.Data/information part-contain the information of the transaction incurred
+     2.Hash-Unique ID of block
+     3.Previous Hash-Hash of previous block
+     features:
+     1.Data stored in blockchain is immutable and cannot be changed easily as explained above.also the data is added to the
+      block after it is approved by everyone in the network and thus allowing secure transactions.Those who validate
+      the transaction and add them in block are called miners.
+     2.Blockchain is decentralized as well as an open ledger.ledger is the record of the transactions done and because it 
+      is visible to everyone,therefore is called an open ledger.No individual or any organisation is incharge of the 
+      transactions each and every connection in the blockchain network has same copy of the ledger.
+     3.Blockchain provide a peer to peer network this characteristic of blockchain allows the transactions to involve only
+      two parties,the sender and the receiver thus it removes the requirement of 'third party authorisation'because everyone
+      in the network is themselves able to authorise the transactions.
+
+Q.4  what all things does a Block contain ?
+Ans. Blocks are files where data pertain	  				
